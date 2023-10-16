@@ -4,4 +4,4 @@ function convert() {
     return tempInF;
 }
 
-window.alert("Your temperature in Farenheit is " + convert() + ".")
+window.alert("Your temperature in Fahrenheit is " + convert() + ".")
